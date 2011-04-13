@@ -32,7 +32,7 @@ Rough todolist :
 API
 ---
 
-    var Crawler = require("node-crawler").Crawler;
+    var Crawler = require("crawler").Crawler;
     
     var c = new Crawler({
         "maxConnections":10,
